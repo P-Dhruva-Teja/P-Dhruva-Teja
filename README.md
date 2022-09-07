@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-dhruva-teja&label=Profile%20views&color=0e75b6&style=flat" alt="p-dhruva-teja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-dhruva-teja" alt="p-dhruva-teja" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **paidipellydhruvateja333@gmail.com**
